@@ -1,4 +1,14 @@
-### Hi there 👋
+### Introducing Myself 👋
+
+I'm Yury, student of MIPT
+
+### Technology Stack
+
+C++, Python, SQL, 
+
+### Connect with me:
+
+LinkedIn
 
 <!--
 **YurezSml/YurezSml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
